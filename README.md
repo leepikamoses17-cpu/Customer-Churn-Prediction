@@ -128,3 +128,6 @@ Confusion Matrix
 
 ROC-AUC Score
 
+## Author
+Ivan Lucas
+
